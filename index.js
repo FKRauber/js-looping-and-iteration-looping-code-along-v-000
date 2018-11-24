@@ -9,3 +9,9 @@ function printBadges(employees) {
 }
 
 printBadges(employees);
+
+
+function tailsNeverFails(){
+
+
+};
