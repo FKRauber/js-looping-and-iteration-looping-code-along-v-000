@@ -8,7 +8,6 @@ function printBadges(employees) {
   return employees;
 }
 
-printBadges(employees);
 
 
 function tailsNeverFails(){
